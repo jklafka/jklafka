@@ -1,4 +1,8 @@
-### Hi there 👋
+### A bit about me
+
+I'm a software developer, data scientist and cognitive scientist currently based out of Madison, WI. My background is in human and machine language processing, but I'm excited about pretty much anything in the SCIE (science, computation, innovation and engineering) space. I'm currently brushing up on my React knowledge and thinking more deeply about human-computer interaction before launching into some more projects in that space.
+
+Pronouns: He/him/his 😄
 
 <!--
 **jklafka/jklafka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
