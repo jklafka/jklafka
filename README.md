@@ -1,6 +1,6 @@
 ### A bit about me
 
-I'm a software developer, data scientist and cognitive scientist currently based out of Madison, WI. My background is in human and machine language processing, but I'm excited about pretty much anything in the SCIE (science, computation, innovation and engineering) space. I'm currently brushing up on my React knowledge and thinking more deeply about human-computer interaction before launching into some more projects in that space.
+I'm a software engineer based out of NYC.
 
 Pronouns: He/him/his 😄
 
